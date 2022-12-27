@@ -1,0 +1,13 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                  PARA JOGAR, SIGA AS SEGUINTES INSTRUÇÕES
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ANDAR: setas do teclado para DIREITA e ESQUERDA, devem ser pressionadas apenas uma vez e o personagem andará sozinho.
+
+PARAR: seta do teclado para BAIXO, enquanto estiver andando pressione-a para parar.
+
+PULAR: seta do teclado para CIMA, quando estiver andando ou parado pressione-a para pular.
+
+ATIRAR/ATACAR: tecla de ESPAÇO, pressione-a para atacar o adversário, apenas um disparo pode ser realizado por vez, seja preciso.
+
+Cada personagem possui 100 de vida, e cada ataque retira 10 de vida, portanto 10 ataques são suficientes para ganhar o jogo, uma tela de vitória o aguarda, divirta-se :D
