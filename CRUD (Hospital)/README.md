@@ -1,4 +1,4 @@
-# Sistema de Hospital
+# CRUD (Hospital)
 
 Aplicação desenvolvida representando um sistema de hospital com funções CRUD (Create, Read, Update, Delete), utilizando Java e SQL.
 
