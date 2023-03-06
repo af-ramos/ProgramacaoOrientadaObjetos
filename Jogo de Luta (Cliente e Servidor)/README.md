@@ -1,4 +1,4 @@
-# Jogo de Luta
+# Jogo de Luta (Cliente e Servidor)
 
 Jogo de luta multijogador e online, desenvolvido em Java, com dois personagens (Guilmon e Marle) e um cenário, onde um usuário ficará responsável por executar um servidor e um cliente e o outro jogador irá executar apenas um cliente, vinculado ao servidor já em execução, dessa forma os clientes serão sincronizados.
 
